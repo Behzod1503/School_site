@@ -1,1 +1,1 @@
-Maktab sayti cuhun DRF da qilinga backend. 
+Maktab sayti uchun DRF da qilingan backend 
